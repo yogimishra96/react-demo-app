@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-demo-app/static/css/main.c253adb1.chunk.css",
+    "main.js": "/react-demo-app/static/js/main.f23c2917.chunk.js",
+    "main.js.map": "/react-demo-app/static/js/main.f23c2917.chunk.js.map",
+    "runtime~main.js": "/react-demo-app/static/js/runtime~main.5d1603a4.js",
+    "runtime~main.js.map": "/react-demo-app/static/js/runtime~main.5d1603a4.js.map",
+    "static/js/2.daa88a29.chunk.js": "/react-demo-app/static/js/2.daa88a29.chunk.js",
+    "static/js/2.daa88a29.chunk.js.map": "/react-demo-app/static/js/2.daa88a29.chunk.js.map",
+    "index.html": "/react-demo-app/index.html",
+    "precache-manifest.c67ad37188c9ea065cec236c2c0754f0.js": "/react-demo-app/precache-manifest.c67ad37188c9ea065cec236c2c0754f0.js",
+    "service-worker.js": "/react-demo-app/service-worker.js",
+    "static/css/main.c253adb1.chunk.css.map": "/react-demo-app/static/css/main.c253adb1.chunk.css.map",
+    "static/media/index.css": "/react-demo-app/static/media/background.4fb962b6.jpg",
+    "static/media/logo.svg": "/react-demo-app/static/media/logo.5d5d9eef.svg"
+  }
+}
